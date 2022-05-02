@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "lintter": "eslint .",
+    "linter": "eslint .",
     "linter-fix": "eslint . --fix"
   },
   "author": "",
@@ -14,7 +14,7 @@
     "eslint": "^8.14.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
-    "jest": "^28.0.3"
+    "jest": "^27.5.1"
   },
   "dependencies": {
     "express": "^4.18.1"
