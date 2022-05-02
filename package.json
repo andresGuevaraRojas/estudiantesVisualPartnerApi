@@ -4,7 +4,9 @@
   "description": "Api de los estudiantes de VisualPartnerShip",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lintter": "eslint .",
+    "linter-fix":"eslint . --fix"
   },
   "author": "",
   "license": "ISC",
